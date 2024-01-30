@@ -1,0 +1,88 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Trust Funded Trader </title>
+    <link rel="stylesheet" href="css/stylesheet">
+</head>
+<header id="header menu" class="ct-section ">
+    <div class="ct-section-inner-wrap">
+        <a id="link-24-4234" class="ct-link" href="https://trustfundedtrader.com">
+        <img id="logo-white-header"  alt="https:// trustfundedtrader.com" class="ct-image lazyloaded">
+        </a>
+        <div id="menu-wrap" class="ct-div-block">
+            <a id="link_text-23-4234" class="botton ct-link-test menu- item" href="https://trustfundedtrader.com">Home</a>
+            <a id="link_text-6-4234" class="botton  menu- item" href="https://trustfundedtrader.com">Pricing</a>
+            <a id="link_text-22-4234" class="botton ct-link-test menu- item" href="https://trustfundedtrader.com">FAQs</a>
+            <a id="link_text-23-4234" class="ct-link-test menu- item" href="https://trustfundedtrader.com">home</a>
+            <a id="link_text-21-4234" class="ct-link-test menu- item" href="https://trustfundedtrader.com/insight">Insights</a>
+            <a id="link_text-16-4234" class="ct-link-test menu- item" href="https://trustfundedtrader.com" target="_self">tools</a>
+            <a id="link_text-10-4234" class="ct-link-test menu- item" href="https://trustfundedtrader.com/contact-us">Contact us</a>
+            <a id="link_text-9-4234" class="ct-link-test menu- item" href="https://trustfundedtrader.com/Account/Login">Login/Sign Up</a>
+            <a id="start-evaluation" class="ct-link-test menu- item" href="https://trustfundedtrader.com">Start evaluation</a>
+        </div>
+        <div id="pro-menu-96-4234" class="oxy-pro-menu">
+            <div class="oxy-pro-menu-mobile-open-icon oxy-pro-menu-off-canvas-trigger oxy-pro-menu-off-canvas-right" data-off-canvas-alignment="right">
+            <svg id="pro-menu-96-4234-open-icon"></svg>
+            </div>
+        <div class="menu-main-menu-container">
+            <ul id="menu-main-menu-" class="oxy-pro-menu-list">
+                <li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item">
+                <a href="https://trustfundedtrader.com">
+                    "home"
+                    <div class="oxy-pro-menu-dropdown-icon-click-area"></div>
+                </a>
+                </li>
+                <li id="menu-item-13427" class="menu-item- type- custom menu-item-obejct-custom menu-item- has- children menu-item-13427" ></li>
+                <a>
+                    "resources"
+                    <div class="oxy-pro-menu-dropdown-icon-click-area"></div>
+                </a>
+                <ul class="sub-menu" data-aos="fade-up"data-aos-duration="400">
+                </li>
+                <li id="menu-item-30938" class="menu-item menu-item-type-post_typr menu-item-object-page menu-item-30938"></li>
+                <li id="menu-item-150" class="menu-item menu-item-type-post_typr menu-item-object-page menu-item-150"></li>
+                <li id="menu-item-210" class="menu-item menu-item-type-post_typr menu-item-object-page menu-item-210"></li>
+                <li id="menu-item-009" class="trip-language-switcher-container menu-item menu-item-type-post_typr menu-item-object-page menu-item-009"></li>
+                <li id="menu-item-4231" class="ct-link-button btn-menu-item-type-post_typr menu-item-object-page menu-item-4231"></li>
+                </ul>
+            </ul>
+        </div>
+        <div class="oxy-pro-menu-mobile-close-icon"></div>      
+    </div>
+</header>
+<div id="inner_content-25-3423" class="ct-inner-content"></div>
+<div class="ct-inner-content-wrap">
+    <div id="code_block-585-2" class="ct-code-block"></div>
+    <div class="tradingview-widget-container" style="width: 100% ; height: 72px;"></div>
+    <h3 id="headline-172-2" class="ct-headline"> YOUR SUCCESS IS OUR GOAL</h3>
+</div>
+<body>
+    for the diagnosis and treatment of cancer with the help of surgery,
+           radiosurgery and radiotherapy,
+           as well as the service of a professional team of Croatian and international experts.
+
+           the cockpit actively supports the medical processes at the patient's bedside.
+
+           <div id="testimonial-carousel" class="carousel slide" data-ride="false" data-pause="hover">
+            <div class="carousel-inner">
+              <div class="carousel-item active bg-danger">
+                  <h1>Everything you need to know about treatment at Radiosurgery</h1>
+                  <img class="testimonial-image" src="https://assets.new.siemens.com/siemens/assets/api/uuid:055a1da9-37ea-48fe-9137-fe0f0bcf1c87/width:1920/quality:high/055a1da9-37ea-48fe-9137-fe0f0bcf1c87.webp" width="300" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item bg-warning">
+                  <h1>Digitalization at the patient's bedside - efficient, safe and economical</h1>
+                  <img class="testimonial-image" src="https://assets.new.siemens.com/siemens/assets/api/uuid:c11255e5-bf55-4634-a918-2b249cea8907/width:1920/quality:high/c11255e5-bf55-4634-a918-2b249cea8907.webp" width="300" class="d-block w-100" alt="...">
+              </div>
+            </div>
+            <a class="carousel-control-prev" type="button" data-target="#testimonial-carousel" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" type="button" data-target="#testimonial-carousel" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+</body>
+</html>
